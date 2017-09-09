@@ -1,1 +1,7 @@
+test première ligne 
 #fichier A
+test
+
+coucou merci pour ton aide 
+
+
